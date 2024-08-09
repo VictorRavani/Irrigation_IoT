@@ -11668,7 +11668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical_DISPLAY_OLED"
 			(at 142.621 32.766 0)
 			(effects
 				(font
@@ -11686,7 +11686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x04, script generated"
 			(at 142.621 32.766 0)
 			(effects
 				(font
